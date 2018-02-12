@@ -1,2 +1,2 @@
 # Hello-World
-  This is my first tryal.
+  This is my first trial.
